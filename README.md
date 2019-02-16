@@ -13,7 +13,7 @@ Yet absent
 
 ## Inspired by
 
-[Ben Awad](https://github.com/benawad)'s [*react-native-web-series*](https://github.com/benawad/react-native-web-series)
+The first step of [Ben Awad](https://github.com/benawad)'s [*react-native-web-series*](https://github.com/benawad/react-native-web-series)
 
 ### License
 
