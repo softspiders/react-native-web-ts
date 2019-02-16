@@ -1,5 +1,13 @@
-# react-native-web-ts
-Minimalistic react-native-web in TypeScript
+# Minimalistic *react-native-web* in *TypeScript*
+
+## Direct ancestors
+
+[helloWorld in TypeScript](https://github.com/softspider/typescript)
+
+## Direct descendants
+
+Yet absent
+
 
 *** Under construction ***
 
