@@ -1,5 +1,12 @@
 # Minimalistic *react-native-web* in *TypeScript*
 
+## Feature tags
+
+- react-native
+- template
+- typescript
+- web
+
 ## Direct ancestors
 
 [helloWorld in *TypeScript*](https://github.com/softspider/typescript)
