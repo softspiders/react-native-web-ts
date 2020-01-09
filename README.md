@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Minimalistic *react-native-web* in *TypeScript*
 
 ## Feature tags
@@ -10,10 +12,6 @@
 ## Direct ancestors
 
 [helloWorld in *TypeScript*](https://github.com/softspider/typescript)
-
-## Direct descendants
-
-Yet absent
 
 
 *** Under construction ***
