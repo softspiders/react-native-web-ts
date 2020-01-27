@@ -11,7 +11,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[helloWorld in *TypeScript*](https://github.com/softspider/typescript)
+[helloWorld in *TypeScript*](https://github.com/softspiders/typescript)
 
 
 *** Under construction ***
