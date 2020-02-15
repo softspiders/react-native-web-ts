@@ -1,13 +1,15 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Minimalistic *react-native-web* in *TypeScript*
 
 ## Feature tags
 
 - react-native
+- starter
 - template
 - typescript
 - web
+- under-dev
 
 ## Direct ancestors
 
